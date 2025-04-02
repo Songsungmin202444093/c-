@@ -3,3 +3,11 @@ ItemSize
 tabpage 하단 점선 클릭
 tabpage 안쪽에 드래그 - 탭 확장
 tab 전체 클릭 - 속성 - Dock - Fill
+
+학과정보
+tabpage - 학번 이름 선택 ctrl + c -> 학과 정보에 ctrl + v  CharacterCasing Upper
+listBox, 등록 ctrl + c / v
+
+교수정보
+소속학과 / 학과 정보 전체 ctrl + c / v                     DropDownStyle - DropDownList
+                                                         CharacterCasing Upper
