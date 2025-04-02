@@ -9,5 +9,5 @@ tabpage - 학번 이름 선택 ctrl + c -> 학과 정보에 ctrl + v  CharacterC
 listBox, 등록 ctrl + c / v
 
 교수정보
-소속학과 / 학과 정보 전체 ctrl + c / v                     DropDownStyle - DropDownList
-                                                         CharacterCasing Upper
+소속학과 / 학과 정보 전체 ctrl + c / v                     DropDownStyle - DropDownList [combobox]
+                                                         CharacterCasing Upper [textbox]
